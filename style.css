@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(174, 200, 233);
+    color: rgb(219, 18, 18);
+    font-family: Geneva, sans-serif;
+    
+}
+.header {
+    color: rgb(17, 60, 153);
+    font-family: sans-serif;
+}
+input[type=text], select {
+    width: 10%;
+    padding: 10px 10px;
+    margin: 4px 0;
+    display: inline-block;
+    border-radius: 4px;
+
+div {
+    border-radius: 5px;
+    color: blue;
+}
+.submit {
+    tex
+}
